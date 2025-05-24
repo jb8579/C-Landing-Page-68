@@ -1,0 +1,494 @@
+@media screen and (min-width: 1240px) and (max-width: 30000px) {
+}
+
+@media screen and (min-width: 1240px) and (max-width: 1400px) {
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1239px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 11px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 8px;
+    }
+
+    .footerlogos ul li a img {
+        height: 60px;
+    }
+
+    .tpparissportif-boxbtn a {
+        font-size: 12px;
+        width: 164px;
+        height: 43px;
+        line-height: 43px;
+        margin: auto;
+        margin-right: 0;
+    }
+
+    .tpparissportifbox-rating img {
+        height: 18px;
+    }
+
+    .tpparissportifbox-rating h3 {
+        font-size: 14px;
+    }
+
+    .tpparissportifbox-score h3 {
+        font-size: 14px;
+    }
+
+    .tpparissportifbox-score h4 {
+        font-size: 20px;
+    }
+
+    .tpparissportifbox-score h4 sub {
+        font-size: 13px;
+        margin-left: 2px;
+        margin-bottom: 1px;
+    }
+
+    .tpparissportifbox-bonus h5 {
+        font-size: 12px;
+    }
+
+    .tpparissportifbox-bonus h3 {
+        font-size: 16px;
+    }
+
+    .tpparissportifbox-bonus h3 span {
+        font-size: 17px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headerlogo-part img {
+        height: 66px;
+    }
+
+    .main-tpparissportif-box {
+        padding: 30px 25px;
+        margin-bottom: 20px;
+        border-radius: 25px;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .container {
+        padding: 0 30px;
+    }
+
+    .headerlogo-part img {
+        height: 55px;
+    }
+
+    .headertext h1 {
+        font-size: 30px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headertext ul li {
+        margin: 0 5px;
+    }
+
+    .headertext ul li h6 {
+        font-size: 14px;
+        top: -10px;
+        padding-left: 4px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 12px;
+    }
+
+    .footer-nav ul li {
+        margin: 0 10px;
+        margin-bottom: 15px;
+    }
+
+    .footer-nav ul {
+        padding-top: 25px;
+        padding-bottom: 14px;
+    }
+
+    .footerlogos ul li {
+        margin: 0 7px;
+    }
+
+    .footerlogos ul li a img {
+        height: 44px;
+    }
+
+    .footerlogos {
+        padding-top: 50px;
+        padding-bottom: 35px;
+    }
+
+    .topparissportif-texthd h2 {
+        line-height: 35px;
+    }
+
+    .topparissportif-item1 h2 {
+        font-size: 20px;
+    }
+
+    .main-tpparissportif-box {
+        display: block;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .tpparissportif-boxleft {
+        width: 100%;
+        padding-right: 0px;
+        position: relative;
+        padding-top: 30px;
+        display: flex;
+        padding-bottom: 20px;
+        align-items: center;
+    }
+
+    .tpparissportif-boxlogo {
+        width: 60%;
+    }
+
+    .mbrating-box {
+        display: block;
+        width: 40%;
+    }
+
+    .tpparissportifbox-rating {
+        width: 100%;
+        position: relative;
+    }
+
+    .cmrating-box {
+        display: none;
+    }
+
+    .tpparissportif-boxinner {
+        width: 100%;
+        padding-bottom: 25px;
+    }
+
+    .tpparissportifbox-bonus {
+        width: 60%;
+        position: relative;
+    }
+
+    .tpparissportifbox-score {
+        width: 40%;
+        position: relative;
+    }
+
+    .tpparissportif-boxbtn {
+        width: 100%;
+    }
+
+    .tpparissportif-boxbtn a {
+        width: 100%;
+        margin: auto;
+        margin-right: auto;
+    }
+
+    .tpparissportif-boxlogo img {
+        margin: auto;
+    }
+
+    .headertop-part p {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .headertop-area {
+        padding: 10px 10px;
+    }
+
+    .headertop-part p {
+        font-size: 10px;
+        font-weight: 600;
+        align-items: start;
+        text-align: center;
+    }
+
+    .main-area {
+        padding: 40px 0;
+        padding-bottom: 30px;
+        background-image: inherit;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .headerlogo-part img {
+        height: 42px;
+        margin-bottom: 25px;
+    }
+
+    .headertext h1 {
+        font-size: 25px;
+    }
+
+    .headertext p br {
+        display: none;
+    }
+
+    .headertext p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .headertext ul li h6 {
+        font-size: 11px;
+        top: -4px;
+        padding-left: 4px;
+    }
+
+    .headertext ul li img {
+        max-width: 100%;
+        display: inline-block;
+        width: 23px;
+    }
+
+    .headertext ul {
+        padding-top: 30px;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-column-gap: 20px;
+        justify-content: space-around;
+        grid-row-gap: 14px;
+        width: 290px;
+        margin: auto;
+    }
+
+    .headertext ul li {
+        margin: 0 0px;
+        text-align: left;
+    }
+
+    .tpparissportif-box-area {
+        padding: 40px 0;
+        padding-bottom: 20px;
+    }
+
+    .main-tpparissportif-box {
+        padding: 20px 15px;
+        padding-top: 40px;
+        align-items: center;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+        display: block;
+    }
+
+    .tpparissportif-boxbtn {
+        width: 100%;
+        padding-top: 20px;
+    }
+
+    .tpparissportif-boxbtn a {
+        margin: auto;
+        margin-right: auto;
+    }
+
+    .tpparissportif-boxleft {
+        width: 100%;
+        padding-right: 0;
+        position: relative;
+        display: flex;
+        gap: 10px;
+    }
+
+    .line {
+        display: none;
+    }
+
+    .cmrating-box {
+        display: none;
+    }
+
+    .mbrating-box {
+        display: block;
+    }
+
+    .tpparissportifbox-rating {
+        width: 100%;
+    }
+
+    .tpparissportif-boxinner {
+        width: 100%;
+        padding-top: 15px;
+    }
+
+    .tpparissportifbox-bonus {
+        width: 70%;
+    }
+
+    .tpparissportifbox-bonus h5 {
+        font-size: 12px;
+        text-align: left;
+        padding-bottom: 8px;
+    }
+
+    .tpparissportifbox-bonus h3 {
+        font-size: 15px;
+        text-align: left;
+    }
+
+    .tpparissportifbox-bonus h3 span {
+        font-size: 16px;
+    }
+
+    .tpparissportifbox-score h3 {
+        font-size: 14px;
+        text-align: right;
+        padding-top: 5px;
+    }
+
+    .tpparissportifbox-score h4 {
+        font-size: 20px;
+        text-align: right;
+        align-items: end;
+        justify-content: right;
+    }
+
+    .tpparissportifbox-score h4 sub {
+        font-size: 12px;
+        margin-left: 4px;
+        margin-bottom: 2px;
+    }
+
+    .tpparissportif-boxbtn a {
+        font-size: 12px;
+        width: 190px;
+        height: 45px;
+        line-height: 45px;
+    }
+
+    .tpparissportifbox-rating h3 {
+        font-size: 14px;
+        padding-top: 8px;
+        text-align: right;
+    }
+
+    .tpparissportif-boxlogo {
+        width: 55%;
+    }
+
+    .mbrating-box {
+        width: 45%;
+    }
+
+    .tpparissportifbox-rating img {
+        max-width: 100%;
+        display: block;
+        margin: auto;
+        margin-right: 0px;
+        height: 15px;
+    }
+
+    .topparissportif-texthd h2 {
+        font-size: 18px;
+        line-height: 26px;
+        padding-bottom: 8px;
+    }
+
+    .topparissportif-texthd p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .topparissportif-texthd {
+        padding-bottom: 35px;
+    }
+
+    .topparissportif-item1 h2 {
+        font-size: 17px;
+        padding-bottom: 8px;
+    }
+
+    .topparissportif-item1 p {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .topparissportif-item1 ul li {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .topparissportif-item1 {
+        padding-bottom: 25px;
+    }
+
+    .topparissportif-text-area {
+        padding: 40px 0;
+        padding-bottom: 10px;
+    }
+
+    .copyright-area p {
+        font-size: 12px;
+    }
+
+    .footer-nav ul li {
+        margin: 0 7px;
+        margin-bottom: 16px;
+    }
+
+    .footer-nav ul li a {
+        font-size: 11px;
+    }
+
+    .footer-nav ul {
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+
+    .footerpr-part p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+        padding-bottom: 12px;
+    }
+
+    .footerpr-part {
+        padding-top: 26px;
+        padding-bottom: 14px;
+    }
+
+    .footerlogos ul li {
+        display: inline-block;
+        margin: 5px 4px;
+    }
+
+    .footerlogos ul li a img {
+        height: 34px;
+    }
+
+    .footerlogos {
+        padding-top: 35px;
+        padding-bottom: 22px;
+    }
+
+    .topparissportif-item1 ul li h6 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+}
