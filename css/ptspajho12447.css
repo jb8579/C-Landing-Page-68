@@ -218,7 +218,7 @@
 
 @media screen and (max-width: 767px) {
     .headertop-area {
-        padding: 10px 10px;
+        padding: 4px 10px;
     }
 
     .headertop-part p {
@@ -228,9 +228,9 @@
         text-align: center;
     }
 
-    .main-area {
-        padding: 40px 0;
-        padding-bottom: 30px;
+   .main-area {
+        padding: 20px 0;
+        padding-bottom: 20px;
         background-image: inherit;
         background-position: center;
         background-repeat: no-repeat;
@@ -239,11 +239,12 @@
 
     .headerlogo-part img {
         height: 42px;
-        margin-bottom: 25px;
+        margin-bottom: 8px;
     }
 
     .headertext h1 {
-        font-size: 25px;
+        font-size: 22px;
+        padding-bottom: 0px;
     }
 
     .headertext p br {
@@ -251,30 +252,34 @@
     }
 
     .headertext p {
-        font-size: 13px;
-        line-height: 24px;
+        font-size: 12px;
+        line-height: 18px;
     }
 
     .headertext ul li h6 {
-        font-size: 11px;
-        top: -4px;
-        padding-left: 4px;
+        font-size: 12px;
+        top: 2px;
+        padding-left: 0;
+        text-align: center;
+        font-weight: 500;
     }
 
     .headertext ul li img {
-        max-width: 100%;
-        display: inline-block;
+        display: flex;
         width: 23px;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
     }
 
     .headertext ul {
-        padding-top: 30px;
+        padding-top: 16px;
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-column-gap: 20px;
+        grid-template-columns: repeat(4, 1fr);
+        grid-column-gap: 26px;
         justify-content: space-around;
-        grid-row-gap: 14px;
-        width: 290px;
+        grid-row-gap: 12px;
+        width: 100%;
         margin: auto;
     }
 
@@ -296,6 +301,17 @@
         overflow: hidden;
         margin-bottom: 30px;
         display: block;
+    }
+
+    .offer {
+        width: 140px;
+        height: 26px;
+        position: relative;
+        top: -10px;
+    }
+    .offer p {
+        text-align: center;
+        padding: 4px 0px;
     }
 
     .tpparissportif-boxbtn {
@@ -376,10 +392,11 @@
     }
 
     .tpparissportif-boxbtn a {
-        font-size: 12px;
-        width: 190px;
+        font-size: 14px;
+        width: 100%;
         height: 45px;
         line-height: 45px;
+        text-transform: uppercase;
     }
 
     .tpparissportifbox-rating h3 {
